@@ -3,7 +3,9 @@
 Este projeto focou-se no desenvolvimento de uma aplicação executável simples e didática com o propósito de obter o volume como também o peso taxável em casos de mercadorias complexas, por exemplo, 3 paletes europeias, 32 caixas pequenas e 7 rolos. 
 O primeiro bloco de execução da aplicação centra-se em inserir, por parte do utilizador, o número de cargas distintas existentes como também o fator de dimensionalidade a considerar para o cálculo do peso taxável.
 
-![Bloco Principal da Aplicação](https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true)
+<div style="text-align: center;">
+  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/ui.png?raw=true" alt="Bloco Principal da Aplicação"/>
+</div>
 
 *Figura 1: Imagem ilustrativa do bloco principal da aplicação.*
 
