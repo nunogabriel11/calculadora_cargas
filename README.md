@@ -22,3 +22,7 @@ O seguinte vídeo representa o funcionamento e obtenção dos resultados por par
 - Carga 1: 3 paletes com dimensões de 1,2 x 0,8 x 0,6 (m)
 - Carga 2: 27 caixas com dimensões de 0,5 x 0,4 x 0,4 (m)
 - Carga 3: 5 tubos com 0,6 (m) de diâmetro e 1,2 (m) de altura
+
+<p align="center">
+  <img src="https://github.com/nunogabriel11/calculadora_cargas/blob/main/imgs/demo.GIF?raw=true" width="600" />
+</p>
