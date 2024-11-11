@@ -11,7 +11,7 @@ O primeiro bloco de execução da aplicação centra-se em inserir, por parte do
 <i>Figura 1: Imagem ilustrativa do bloco principal da aplicação</i>
 </p><br />
 
-Após serem introduzidas as descrições anteriores, seleciona-se o botão “iniciar cálculo” na qual irá abrir tantas novas de descrição de carga tanto o número inserido em “Número de cargas”. Cada uma dessas janelas questiona o utilizador acerca da descrição da carga sobre esta ser paletizada ou não paletizada. e, posteriormente a sua descrição:
+Após serem introduzidas as descrições anteriores, seleciona-se o botão “Iniciar Cálculo” na qual irá abrir tantas novas janelas de descrição de carga tanto o número inserido em “Número de Cargas”. Cada uma dessas janelas questiona o utilizador acerca da descrição da carga sobre esta ser paletizada ou não paletizada e, posteriormente a sua descrição:
 1. Caso a mercadoria seja paletizada, irá abrir uma nova janela correspondente á inserção da descrição da mercadoria (comprimento, largura, altura e número de paletes)
 2. Caso a mercadoria seja não paletizada, o utilizador terá de selecionar uma opção entre “caixas” ou “rolos”
    a. No caso de a carga ser constituída por caixas, irá ser pedido ao utilizador para introduzir a descrição da carga (comprimento, largura, altura e número de caixas)
